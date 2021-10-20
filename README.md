@@ -7,7 +7,7 @@ Après 3 mois de socle et 1 mois de spé (REACT ou DATA) au sein de l'école O'c
 ## Notre projet 
 
 Le but de cette application web est d'offrir la possibilité aux maîtres de chiens d’organiser des balades collectives, dans l’objectif d'offrir un cadre social sain pour les animaux et les maîtres de chiens. Cela permettra de socialiser et sociabiliser les chiens, ce qui est très important afin qu’ils ne développent pas de troubles comportementaux.
-**<p align="center"><a href="http://cani-potes.surge.sh/" style="background: linear-gradient(
+**<p align="center">Lien vers le projet <a href="http://cani-potes.surge.sh/" style="background: linear-gradient(
 315deg,#f7b42c 0%,#fc575e 74%); color: white; padding: .6rem 1rem; border-radius:50px">Cani' Potes</a></p>**
 
 <p align="center">
